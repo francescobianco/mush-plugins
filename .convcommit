@@ -21,3 +21,4 @@ message:~_
 scope:
 message:shellcheck plugin
 scope:
+scope:
