@@ -1,3 +1,2 @@
 
-package shellcheckhelper github://francescobianco/mush-plugins packages/shellcheckhelper
-
+package shellcheckhelper https://github.com/francescobianco/mush-plugins packages/shellcheckhelper # ShellCheck helper plugin
