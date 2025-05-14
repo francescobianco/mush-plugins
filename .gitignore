@@ -1,4 +1,6 @@
 .idea/
 .vscode/
+plugins/
 target/
+lib/
 .env
